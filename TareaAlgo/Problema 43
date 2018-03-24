@@ -1,0 +1,29 @@
+(Rendimiento del auto) Los automovilistas se encuentran preocupados por el consumo y rendimiento de su vehículo. Algunos de ellos llevan un registro con varias cargas de combustible, el costo del mismo y la cantidad de kilómetros recorridos con esa cantidad.
+
+Escriba un programa que permita al usuario ingresar dicha información y muestre el rendimiento (en litros / 100 km) del vehículo cada vez. Al finalizar, imprima el rendimiento promedio, el mínimo, el máximo, el total de kilómetros recorridos y el dinero utilizado.
+Ejemplo de ejecución¶
+
+Ingrese los kilometros recorridos (-1 para terminar): 486
+Ingrese el precio del combustible por litro: 21.38
+Ingrese el monto total utilizado en este compra: 930.24
+Rendimiento (l/100km) de este tanque >> 8.95
+
+Ingrese los kilometros recorridos (-1 para terminar): 606
+Ingrese el precio del combustible por litro: 23.57
+Ingrese el monto total utilizado en este compra: 980.04
+Rendimiento (l/100km) de este tanque >> 6.86
+
+Ingrese los kilometros recorridos (-1 para terminar): 594
+Ingrese el precio del combustible por litro: 24.89
+Ingrese el monto total utilizado en este compra: 900.16
+Rendimiento (l/100km) de este tanque >> 6.08
+
+Ingrese los kilometros recorridos (-1 para terminar): -1
+
+  Rendimiento promedio (l/100km) >> 7.3008
+     Mejor rendimiento (l/100km) >> 6.08
+      Peor rendimiento (l/100km) >> 8.95
+  Distancia total recorrida (km) >> 1686
+Combustible total consumidos (l) >> 121.25
+  Costo total de su vehiculo ($) >> 2810.40
+
